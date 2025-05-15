@@ -10,8 +10,7 @@ public class ClonaCubos : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //Instancia el cubo 
-        Instantiate(cuboPrefab);   
+      
     }
 
     // Update is called once per frame
@@ -22,6 +21,7 @@ public class ClonaCubos : MonoBehaviour
 
     public void ClonarCubo()
     {
-
+        //Instancia el cubo 
+        Instantiate(cuboPrefab);
     }
 }
