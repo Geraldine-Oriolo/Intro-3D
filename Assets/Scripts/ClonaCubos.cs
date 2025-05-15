@@ -19,4 +19,9 @@ public class ClonaCubos : MonoBehaviour
     {
         
     }
+
+    public void ClonarCubo()
+    {
+
+    }
 }
